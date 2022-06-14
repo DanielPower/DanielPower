@@ -19,7 +19,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             ipynb, html, shell
-          plugin_repositories_skipped: >-
+          repositories_skipped: >-
             DanielPower/pathfinding-demo,
             DanielPower/COMP4303-Assignment-1,
             DanielPower/COMP4303-Assignment-2,

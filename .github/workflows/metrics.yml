@@ -21,9 +21,9 @@ jobs:
             ipynb, html, shell
           repositories_skipped: >-
             DanielPower/pathfinding-demo,
-            DanielPower/COMP4303-Assignment-1,
-            DanielPower/COMP4303-Assignment-2,
-            DanielPower/COMP4303-Assignment-3,
-            DanielPower/COMP4303-Assignment-4,
-            DanielPower/COMP3100,
+            DanielPower/COMP-4303-Assignment-1,
+            DanielPower/COMP-4303-Assignment-2,
+            DanielPower/COMP-4303-Assignment-3,
+            DanielPower/COMP-4303-Assignment-4,
+            DanielPower/COMP-3100,
             Zerocrossing/A.C.E.
